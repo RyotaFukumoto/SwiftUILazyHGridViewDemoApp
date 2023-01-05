@@ -14,6 +14,7 @@
 		A3263CFB2967137000B6EAFA /* SwiftUILazyHGridViewDemoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263CFA2967137000B6EAFA /* SwiftUILazyHGridViewDemoAppTests.swift */; };
 		A3263D052967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263D042967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITests.swift */; };
 		A3263D072967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263D062967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITestsLaunchTests.swift */; };
+		A3263D142967138700B6EAFA /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263D132967138700B6EAFA /* Cat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A3263D002967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUILazyHGridViewDemoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3263D042967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyHGridViewDemoAppUITests.swift; sourceTree = "<group>"; };
 		A3263D062967137000B6EAFA /* SwiftUILazyHGridViewDemoAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyHGridViewDemoAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A3263D132967138700B6EAFA /* Cat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		A3263CE82967136900B6EAFA /* SwiftUILazyHGridViewDemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				A3263D132967138700B6EAFA /* Cat.swift */,
 				A3263CE92967136900B6EAFA /* SwiftUILazyHGridViewDemoAppApp.swift */,
 				A3263CEB2967136900B6EAFA /* ContentView.swift */,
 				A3263CED2967137000B6EAFA /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				A3263CEC2967136900B6EAFA /* ContentView.swift in Sources */,
 				A3263CEA2967136900B6EAFA /* SwiftUILazyHGridViewDemoAppApp.swift in Sources */,
+				A3263D142967138700B6EAFA /* Cat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
