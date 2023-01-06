@@ -14,6 +14,8 @@ struct ContentView: View {
         Cat(image: "hijiki", name: "ひじき"),
         Cat(image: "thukushi", name: "つくし"),
         Cat(image: "hijiki", name: "ひじき"),
+        Cat(image: "thukushi", name: "つくし"),
+        Cat(image: "hijiki", name: "ひじき"),
         Cat(image: "thukushi", name: "つくし")]
     
     let columns: [GridItem] = [
